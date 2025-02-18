@@ -44,6 +44,7 @@
     "cmd_line_args": ""
   },
   "hassio_api": true,
+  "hassio_role": "homeassistant",
   "homeassistant_api": true,
   "schema": {
     "auth": "bool",
