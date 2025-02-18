@@ -43,6 +43,8 @@
     ],
     "cmd_line_args": ""
   },
+  "hassio_api": true,
+  "homeassistant_api": true,
   "schema": {
     "auth": "bool",
     "auth_username": "str?",
