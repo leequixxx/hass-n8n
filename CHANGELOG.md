@@ -1,252 +1,183 @@
-# Changelog
+# Release 3.4.7
 
-All notable changes to this project will be documented in this file.
+## What's Changed
+* chore: update changelog for release 3.4.6 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/280
+* chore(deps): bump n8nio/n8n from 1.94.0 to 1.94.1 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/281
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.6...3.4.7
 
-## [ 1.0.61 ] - 2025-01-23 
 
- Bump n8n to 1.76.1 
+# Release 3.4.6
 
-## [ 1.0.60 ] - 2025-01-20 
+## What's Changed
+* chore: update changelog for release 3.4.5 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/278
+* chore(deps): bump n8nio/n8n from 1.93.0 to 1.94.0 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/279
 
- Bump n8n to 1.75.2 
 
-## [ 1.0.59 ] - 2025-01-10 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.5...3.4.6
 
- Bump n8n to 1.74.1 
 
-## [ 1.0.58 ] - 2024-12-20 
+# Release 3.4.5
 
- Bump n8n to 1.73.1 
+## What's Changed
+* Update CHANGELOG.md by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/276
+* fix: add /form route to Nginx reverse proxy configuration by @sekertr in https://github.com/Rbillon59/hass-n8n/pull/277
 
-## [ 1.0.57 ] - 2024-12-18 
 
- Bump n8n to 1.72.1 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.4...3.4.5
 
-## [ 1.0.56 ] - 2024-12-08 
 
- Bump n8n to 1.71.1 
+# Release 3.4.4
 
-## [ 1.0.55 ] - 2024-11-30 
+## What's Changed
+* chore: update changelog for release 3.4.3 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/271
+* added Home Assistant Sidebar Icon by @sekertr in https://github.com/Rbillon59/hass-n8n/pull/272
+* chore(deps): bump n8nio/n8n from 1.91.3 to 1.92.2 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/273
+* chore(deps): bump n8nio/n8n from 1.92.2 to 1.93.0 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/274
 
- Bump n8n to 1.70.1 
 
-## [ 1.0.54 ] - 2024-11-27 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.3...3.4.4
 
- Bump n8n to 1.70.0 
 
-## [ 1.0.53 ] - 2024-11-21 
+# Release 3.4.3
 
- Bump n8n to 1.69.0 
+## What's Changed
+* chore: update changelog for release 3.4.2 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/269
+* chore(deps): bump n8nio/n8n from 1.91.2 to 1.91.3 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/270
 
-## [ 1.0.52 ] - 2024-11-18 
 
- Bump n8n to 1.68.0 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.2...3.4.3
 
-## [ 1.0.51 ] - 2024-11-09 
 
- Bump n8n to 1.67.1 
+# Release 3.4.2
 
-## [ 1.0.50 ] - 2024-11-02 
+## What's Changed
+* chore: update changelog for release 3.4.1 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/267
+* chore(deps): bump n8nio/n8n from 1.90.2 to 1.91.2 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/268
 
- Bump n8n to 1.66.0 
 
-## [ 1.0.48 ] - 2024-08-27 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.1...3.4.2
 
- Bump n8n to 1.55.3
 
-## [ 1.0.47 ] - 2024-08-20 
+# Release 3.4.1
 
- Bump n8n to 1.54.4
+## What's Changed
+* chore: update changelog for release 3.4.0 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/264
+* fix: connection lost issue due to websocket invalid origin by @sekertr in https://github.com/Rbillon59/hass-n8n/pull/266
 
-## [ 1.0.46 ] - 2024-08-13 
+## New Contributors
+* @sekertr made their first contribution in https://github.com/Rbillon59/hass-n8n/pull/266
 
- Bump n8n to 1.53.2
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.4.0...3.4.1
 
-## [ 1.0.45 ] - 2024-08-06 
 
- Bump n8n to 1.52.2
+# Release 3.4.0
 
-## [ 1.0.44 ] - 2024-07-30 
+## What's Changed
+* chore: update changelog for release 3.3.9 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/262
+* fix: disable watchdog by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/263
 
- Bump n8n to 1.51.1
 
-## [ 1.0.43 ] - 2024-07-16 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.9...3.4.0
 
- Bump n8n to 1.49.0
 
-## [ 1.0.42 ] - 2024-07-02 
+# Release 3.3.9
 
- Bump n8n to 1.47.2
+## What's Changed
+* chore: update changelog for release 3.3.8 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/257
+* chore(deps): bump n8nio/n8n from 1.89.2 to 1.90.2 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/261
 
-## [ 1.0.41 ] - 2024-06-18 
 
- Bump n8n to 1.45.1
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.8...3.3.9
 
-## [ 1.0.40 ] - 2024-06-11 
 
- Bump n8n to 1.44.1
+# Release 3.3.8
 
-## [ 1.0.39 ] - 2024-05-28 
+## What's Changed
+* chore: update changelog for release 3.3.7 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/256
+* nginx-config: fix connection lost issue by @oetken in https://github.com/Rbillon59/hass-n8n/pull/252
 
- Bump n8n to 1.42.1
+## New Contributors
+* @oetken made their first contribution in https://github.com/Rbillon59/hass-n8n/pull/252
 
-## [ 1.0.38 ] - 2024-05-21 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.7...3.3.8
 
- Bump n8n to 1.41.1
 
-## [ 1.0.37 ] - 2024-05-07 
+# Release 3.3.7
 
- Bump n8n to 1.39.1
+## What's Changed
+* chore: update changelog for release 3.3.6 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/250
+* chore(deps): bump n8nio/n8n from 1.88.0 to 1.89.2 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/254
 
-## [ 1.0.36 ] - 2024-04-30 
 
- Bump n8n to 1.38.2
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.6...3.3.7
 
-## [ 1.0.35 ] - 2024-04-23 
 
- Bump n8n to 1.37.3
+# Release 3.3.6
 
-## [ 1.0.34 ] - 2024-04-16 
+## What's Changed
+* chore: update changelog for release 3.3.5 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/234
+* chore(deps): bump n8nio/n8n from 1.83.2 to 1.84.1 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/235
+* chore(deps): bump n8nio/n8n from 1.84.1 to 1.84.3 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/237
+* chore(deps): bump n8nio/n8n from 1.84.3 to 1.86.1 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/246
+* chore(deps): bump n8nio/n8n from 1.86.1 to 1.88.0 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/248
 
- Bump n8n to 1.36.4
 
-## [ 1.0.33 ] - 2024-04-09 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.5...3.3.6
 
- Bump n8n to 1.34.2
 
-## [ 1.0.32 ] - 2024-03-26 
+# Release 3.3.5
 
- Bump n8n to 1.33.1
+## What's Changed
+* chore: update changelog for release 3.3.4 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/231
+* chore(deps): bump n8nio/n8n from 1.82.3 to 1.83.2 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/232
+* Update auto-merge-dependabot.yaml by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/233
 
-## [ 1.0.31 ] - 2024-03-19 
 
- Bump n8n to 1.32.2
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.4...3.3.5
 
-## [ 1.0.30 ] - 2024-03-12 
 
- Bump n8n to 1.31.2
+# Release 3.3.4
 
-## [ 1.0.29 ] - 2024-02-27 
+## What's Changed
+* chore: update changelog for release 3.3.3 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/224
+* docs: elaborate on how to bypass ingress by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/225
+* docs: clarify bypassing home assistant by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/227
+* chore(deps): bump n8nio/n8n from 1.81.4 to 1.82.1 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/228
+* ci: fix auto-merge of dependabot by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/230
+* chore(deps): bump n8nio/n8n from 1.82.1 to 1.82.3 by @dependabot in https://github.com/Rbillon59/hass-n8n/pull/229
 
- Bump n8n to 1.29.1
 
-## [ 1.0.28 ] - 2024-02-20 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.3...3.3.4
 
- Bump n8n to 1.27.3
 
-## [ 1.0.27 ] - 2024-02-13 
+# Release 3.3.3
 
- Bump n8n to 1.27.2
+## What's Changed
+* chore: update changelog for release 3.3.2 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/222
+* fix: add troubleshooting section, fixes #212 by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/223
 
-## [ 1.0.26 ] - 2024-02-06 
 
- Bump n8n to 1.26.0
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.2...3.3.3
 
-## [ 1.0.25 ] - 2024-01-30 
 
- Bump n8n to 1.25.1
+# Release 3.3.2
 
-## [ 1.0.24 ] - 2024-01-23 
+## What's Changed
+* chore: update changelog for release 3.3.1 by @Rbillon59 in https://github.com/Rbillon59/hass-n8n/pull/220
+* fix: port conflict caused by ingress colliding with manual port mappings by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/221
 
- Bump n8n to 1.24.1
 
-## [ 1.0.23 ] - 2024-01-16 
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.1...3.3.2
 
- Bump n8n to 1.22.6
 
-## [ 1.0.22 ] - 2024-01-09 
+# Release 3.3.1
 
- Bump n8n to 1.22.4
+## What's Changed
+* fix: broken changelog generation by @ffMathy in https://github.com/Rbillon59/hass-n8n/pull/217
 
-## [ 1.0.21 ] - 2023-12-27 
 
- Bump n8n to 1.20.0
+**Full Changelog**: https://github.com/Rbillon59/hass-n8n/compare/3.3.0...3.3.1
 
-## [ 1.0.20 ] - 2023-12-05 
 
- Bump n8n to 1.18.0
-
-## [ 1.0.19 ] - 2023-11-28 
-
- Bump n8n to 1.17.1
-
-## [ 1.0.18 ] - 2023-11-21 
-
- Bump n8n to 1.16.0
-
-## [ 1.0.17 ] - 2023-11-14 
-
- Bump n8n to 1.15.2
-
-## [ 1.0.16 ] - 2023-11-07 
-
- Bump n8n to 1.14.2
-
-## [ 1.0.15 ] - 2023-10-24 
-
- Bump n8n to 1.11.2
-
-## [ 1.0.14 ] - 2023-10-17 
-
- Bump n8n to 1.9.3
-
-## [ 1.0.13 ] - 2023-09-27 
-
- Bump n8n to 1.8.2
-
-## [ 1.0.12 ] - 2023-08-29 
-
- Bump n8n to 0.237.0
-
-## [ 1.0.11 ] - 2023-07-25 
-
- Bump n8n to 0.236.3
-
-## [ 1.0.10 ] - 2023-07-18 
-
- Bump n8n to 0.236.2
-
-## [ 1.0.9 ] - 2023-07-11 
-
- Bump n8n to 0.236.0
-
-## [ 1.0.8 ] - 2023-07-04 
-
- Bump n8n to 0.235.0
-
-## [ 1.0.7 ] - 2023-06-27 
-
- Bump n8n to 0.234.0
-
-## [ 1.0.6 ] - 2023-06-20 
-
- Bump n8n to 0.233.1
-
-## [ 1.0.5 ] - 2023-06-13 
-
- Bump n8n to 0.232.0
-
-## [ 1.0.4 ] - 2023-06-06 
-
- Bump n8n to 0.231.0
-
-## [ 1.0.3 ] - 2023-05-30 
-
- Bump n8n to 0.230.1
-
-## [ 1.0.2 ] - 2023-05-24 
-
- Bump n8n to 0.230.0
-
-## [1.0.1] - 2023-05-24
-
-### Added
-
-BREAKING CHANGE: The environment variables are now managed through the UI. The `env_vars_list` holds every environment variables you want to add to the container.
-
-The previously env vars used (i.e `WEBHOOK_TUNNEL_URL`) are now deprecated and replaced by the new `env_vars_list` configuration.
